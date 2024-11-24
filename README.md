@@ -29,5 +29,5 @@ Bu proje, aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 
 ## Canlı Link 
 
-[Canlı Link](capstone-bgiuwb2i7-sergen-yaniklars-projects.vercel.app)
+[Canlı Link](https://capstone-chi-ten.vercel.app/)
 
