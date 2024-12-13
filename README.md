@@ -1,33 +1,21 @@
 # 📚 Library Management System
-
-## Proje Hakkında
-
-Library Management System, bir kütüphaneyi dijital olarak yönetmek için tasarlanmış bir uygulamadır.  
-Bu sistem, kullanıcıların kitap, borçlanma ve yayınevi bilgilerini kolayca yönetmelerini sağlar.
-
-### Özellikler:
-- **Kitap Yönetimi**: Kitap ekleme, düzenleme ve silme.
-- **Borçlanma Yönetimi**: Kullanıcıların kitap ödünç alma ve iade işlemleri.
-- **Yayınevi Yönetimi**: Yayınevlerini listeleme, ekleme ve düzenleme.
-
+## About the Project
+Library Management System is an application designed to digitally manage a library.  
+This system enables users to easily manage book, lending, and publishing house information.
+### Features:
+- **Book Management**: Adding, editing, and deleting books.
+- **Lending Management**: Users' book borrowing and return processes.
+- **Publishing House Management**: Listing, adding, and editing publishing houses.
 ---
-
-## 🚀 Teknolojiler
-
-Bu proje, aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
-
+## 🚀 Technologies
+This project has been developed using the following technologies:
 ### **Frontend**
 - React.js
-- Axios (API çağrıları için)
-- CSS (Tasarım için)
-
+- Axios (for API calls)
+- CSS (for design)
 ### **Backend**
 - Spring Boot
-- H2 veya PostgreSQL (Veritabanı)
-
+- H2 or PostgreSQL (Database)
 ---
-
-## Canlı Link 
-
-[Canlı Link](https://capstone-chi-ten.vercel.app/)
-
+## Live Link 
+[Live Link](https://capstone-chi-ten.vercel.app/)
